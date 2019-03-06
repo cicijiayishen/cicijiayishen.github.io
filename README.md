@@ -1,5 +1,7 @@
-# IBI1_2018-19
-GitHub repository for IBI1 2018/19 at ZJU/UoE
+# Welcome!
 
-### This is a website of Cici Jiayi Shen
-Welcome to my small world!
+This is my small word! Welcome!
+
+# Introduction
+
+I am Cici Jiayi Shen, an undergraduate in Zhejiang-Edinburgh Institue. I major in Biomedical Informatics.
