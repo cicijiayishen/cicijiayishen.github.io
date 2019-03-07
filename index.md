@@ -1,14 +1,12 @@
 ## Welcome to Cici's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/cicijiayishen/cicijiayishen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is a personal website of Cici Jiayi Shen.
+Welcome to my small wolrd!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction
 
-### Things I Like
-
-I like strawberries.
-I like milk.
-I like travelling.
+My name is Cici Jiayi Shen. I am from Hangzhou, Zhejiang. I am an undergraduate student in Zhejiang-Edinburgh Institute. I major in Biomedical Informatics.
+I have many hobbies. I like dancing, running, calligraphy, playing the piano.
 
 ### Markdown
 
